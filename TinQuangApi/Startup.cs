@@ -15,6 +15,7 @@ namespace TinQuangApi
 {
     public class Startup
     {
+        // cloen
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
